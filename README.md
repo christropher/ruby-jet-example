@@ -2,7 +2,7 @@ This project demonstrates a basic CRUD app.
 
 ## Local Setup
 
-    git clone https://github.com/tongueroo/jets-example-crud-html.git demo
+    git clone https://github.com/christropher/ruby-jet-example.git demo
     cd demo
     bundle update
     bundle install
